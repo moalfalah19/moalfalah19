@@ -1,0 +1,111 @@
+*,body,html{
+    margin: 0;
+    padding: 0;
+    margin-left: 3px;
+}
+body{
+    background-color:white;
+}
+
+.pt{
+    margin-right: 40px;
+    float: right;
+}
+
+.spark{
+    font-size: 20px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+.languages{
+    width: 100%;
+    background-color: dodgerblue;
+    color: white;
+    height: 60px;
+}
+
+.languages #logo{
+    float: left;
+    height: 30px;
+    padding: 15px 30px;
+    font-size: 40px;
+}
+.pic{
+
+    margin: 4rem 4rem ;
+    float: right;
+}
+.languages >ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.languages >ul >li{
+    float: right;
+}
+
+.languages-item{
+    display: inline-block;
+    padding: 10px;
+}
+
+.goal{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
+.radio-container{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.activ{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.iam{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
+.what {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.meat{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.veg{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+.juice{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
+
+.font{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
